@@ -6,6 +6,13 @@
 <br>
 <br>
 <br>
+Tecnologias Utilizadas
+<br>
+<br>
+<img scr="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
+<img scr="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
+<br>
+<br>
 <h3>Versão para Desktop</h3>
 <br>
 <br>
